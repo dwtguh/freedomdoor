@@ -3,7 +3,7 @@
 ### 亲爱的用户，欢迎来到自由之门最新地址发布页，希望能够帮助阁下解决无法访问网站的问题
 
 #### 记住我们的永久首页
-* [https://fastssr.cc](https://ppss01.xyz)
+* [https://fastssr.cc](https://fastssr.cc)
 
 #### 目前大陆能正常访问地址
 
