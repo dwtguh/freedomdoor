@@ -8,6 +8,7 @@
 #### 目前大陆能正常访问地址
 
 * [https://fastssr.cc](https://fastssr.cc)
+* [https://fastssr.ca](https://fastssr.ca)
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
 暂无被墙域名
