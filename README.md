@@ -14,5 +14,5 @@
 暂无被墙域名
 
 ####有任何疑问请联系电报群组管理
-* 电报通知群组:[https://t.me/free_door](https://t.me/free_door)
-* 电报交流频道:[https://t.me/freedomdoor](https://t.me/freedomdoor)
+* 电报通知群组:[https://t.me/fastssrs](https://t.me/fastssrs)
+* 电报交流频道:[https://t.me/fastssrr](https://t.me/fastssrr)
