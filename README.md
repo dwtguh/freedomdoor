@@ -7,11 +7,11 @@
 
 #### 目前大陆能正常访问地址
 
-* [https://fastssr.cc](https://fastssr.cc)
-* [https://fastssr.ca](https://fastssr.ca)
+
+* [https://fastssr.nl](https://fastssr.nl)
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
-暂无被墙域名
+* [https://fastssr.cc](https://fastssr.cc)
 
 ####有任何疑问请联系电报群组管理
 * 电报通知群组:[https://t.me/fastssrs](https://t.me/fastssrs)
